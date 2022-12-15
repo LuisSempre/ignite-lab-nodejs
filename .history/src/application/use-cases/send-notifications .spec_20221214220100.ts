@@ -1,1 +1,0 @@
-describe('Send notification', () => {});
