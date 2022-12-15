@@ -1,8 +1,8 @@
 {
   "name": "notifications-service",
   "version": "0.0.1",
-  "description": "Notifications services with NestJS and PrismaORM",
-  "author": "Luis Lucas",
+  "description": "",
+  "author": "",
   "private": true,
   "license": "UNLICENSED",
   "scripts": {
